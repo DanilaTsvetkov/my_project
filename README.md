@@ -9,7 +9,7 @@
   </tr>
         <tr>
     <td>15</td>
-    <td>[Telecommunications](https://github.com/DanilaTsvetkov/my_project/blob/main/15.%20Telecommunications.ipynb)</td>
+    <td><a href="https://github.com/DanilaTsvetkov/my_project/blob/main/15.%20Telecommunications.ipynb">Steel Telecommunications</a></td>
     <td>Telecom operator TeleDom wants to combat customer outflow. To find such users in advance, TeleDom needs a model that will predict whether a subscriber will break the contract. The task is to train a model on this data to predict customer churn.</td>
     <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
   </tr>
@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td>8</td>
-    <td>Machine Learning Model for a metalworking enterprise</td>
+    <td><a href="https://github.com/DanilaTsvetkov/my_project/blob/main/8.%20Machine%20Learning%20Model%20for%20a%20metalworking%20enterprise.ipynb">Machine Learning Model for a metalworking enterprise</a></td>
     <td>Developed a model predicting the recovery rate of gold from gold ore.
 The model helped to optimize production in order not to launch a plant with unprofitable characteristics.</td>
     <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
@@ -76,7 +76,7 @@ The model helped to optimize production in order not to launch a plant with unpr
   </tr>
   <tr>
     <td>5</td>
-    <td>Patterns that determine the success of game platforms</td>
+    <td><a href="https://github.com/DanilaTsvetkov/my_project/blob/main/5.%20Patterns%20that%20determine%20the%20success%20of%20game%20platforms.ipynb">Patterns that determine the success of game platforms</a></td>
     <td>Using historical data on sales of computer games, user and expert ratings, genres and platforms. I identified patterns that determine the success of a game.
 </td>
     <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy</td>

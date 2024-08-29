@@ -114,10 +114,10 @@ The model helped to optimize production in order not to launch a plant with unpr
 
 <table width=100% valign=top >
   <tr>
-    <td width=1%>Number</td>
-    <td width=5%>Project</td>
-    <td>Description</td>
-    <td width=30%>Used libraries</td>
+    <td width=1%>Номер</td>
+    <td width=5%>Проект</td>
+    <td>Описание проекта</td>
+    <td width=30%>Использованные библиотеки</td>
   </tr>
         <tr>
     <td>15</td>

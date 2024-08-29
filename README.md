@@ -9,7 +9,7 @@
   </tr>
         <tr>
     <td>15</td>
-    <td>Telecommunications</td>
+    <td>[Telecommunications](https://github.com/DanilaTsvetkov/my_project/blob/main/15.%20Telecommunications.ipynb)</td>
     <td>Telecom operator TeleDom wants to combat customer outflow. To find such users in advance, TeleDom needs a model that will predict whether a subscriber will break the contract. The task is to train a model on this data to predict customer churn.</td>
     <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
   </tr>

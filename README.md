@@ -121,11 +121,11 @@ The model helped to optimize production in order not to launch a plant with unpr
   </tr>
         <tr>
     <td>15</td>
-    <td>Телекоммуникации</td>
+    <td><a href="https://github.com/DanilaTsvetkov/my_project/blob/main/15.%20Telecommunications.ipynb">Телекоммуникации</a></td>
     <td>Оператор связи TeleDom хочет бороться с оттоком клиентов. Чтобы заранее находить таких пользователей, TeleDom нужна модель, которая будет предсказывать, разорвет ли абонент контракт. Задача состоит в том, чтобы обучить модель на основе этих данных для прогнозирования оттока клиентов.</td>
     <td>Python, Pandas, Matplotlib, Seaborn, exploratory data analysis, data visualization, data preprocessing, math, machine learning, gradient boosting, numpy</td>
   </tr>
-      <tr>
+<!--       <tr>
     <td>14</td>
     <td>Распознавание возраста по фотографии</td>
     <td>Постройте модель машинного обучения, которая определяет приблизительный возраст человека по фотографии. Есть набор фотографий людей с указанием их возраста.</td>
@@ -160,14 +160,14 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Алгоритм защиты данных</td>
     <td>Личная информация клиентов страховой компании была защищена (зашифрована) с использованием метода преобразования данных.</td>
     <td>Pandas, Seaborn, Numpy, Sklearn, Machine Learning</td>
-  </tr>
+  </tr> -->
   <tr>
     <td>8</td>
-    <td>Модель машинного обучения для металлообрабатывающего предприятия</td>
+    <td><a href="https://github.com/DanilaTsvetkov/my_project/blob/main/8.%20Machine%20Learning%20Model%20for%20a%20metalworking%20enterprise.ipynb">Модель машинного обучения для металлообрабатывающего предприятия</a></td>
     <td>Разработал модель, прогнозирующую скорость извлечения золота из золотосодержащей руды. Модель помогла оптимизировать производство, чтобы не запускать завод с убыточными характеристиками.</td>
     <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
   </tr>
-  <tr>
+<!--   <tr>
     <td>7</td>
     <td>Разработка новых нефтяных месторождений</td>
     <td>Решили, в каком регионе добывать нефть. Построили модель машинного обучения, которая помогла определить регион, где добыча полезных ископаемых принесет наибольшую прибыль с наименьшим риском потерь.</td>
@@ -185,13 +185,13 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Построена первая модель машинного обучения для задачи классификации, которая находит подходящий тариф.</td>
     <td>Machine Learning, Pandas, Numpy, Python, Seaborn</td>
   </tr>
-  <tr>
+  <tr> -->
     <td>5</td>
-    <td>Закономерности, определяющие успех игровых платформ</td>
+    <td><a href="https://github.com/DanilaTsvetkov/my_project/blob/main/5.%20Patterns%20that%20determine%20the%20success%20of%20game%20platforms.ipynb">Закономерности, определяющие успех игровых платформ</a></td>
     <td>Используя исторические данные о продажах компьютерных игр, пользовательских и экспертных рейтингах, жанрах и платформах. Я выявил закономерности, которые определяют успех игры.</td>
     <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy</td>
   </tr>
-  <tr>
+<!--   <tr>
     <td>4</td>
     <td>Определение прибыльного плана для телекоммуникационной компании</td>
     <td>Основываясь на данных клиентов мобильных операторов, я проанализировал поведение клиентов и нашел оптимальный план для компании..
@@ -216,7 +216,7 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td>Яндекс Музыка</td>
     <td>Сравнение музыкальных вкусов Москвы и Санкт-Петербурга. Насколько отличается музыка, которая играет по дороге на работу утром в понедельник, от той, что играет в среду или в конце рабочей недели.</td>
     <td>Python, Pandas, Numpy</td>
-  </tr>
+  </tr> -->
 </table>
 
 <br>

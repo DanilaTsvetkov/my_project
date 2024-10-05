@@ -79,7 +79,7 @@ The model helped to optimize production in order not to launch a plant with unpr
     <td><a href="https://github.com/DanilaTsvetkov/my_project/blob/main/5.%20Patterns%20that%20determine%20the%20success%20of%20game%20platforms.ipynb">Patterns that determine the success of game platforms</a></td>
     <td>Using historical data on sales of computer games, user and expert ratings, genres and platforms. I identified patterns that determine the success of a game.
 </td>
-    <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn, SciPy</td>
+    <td>Python, Pandas, numpy, Matplotlib, Preprocessing data, Exploratory Data Analysis, Statistics, statistical hypothesis testing, Seaborn</td>
   </tr>
 <!--   <tr>
     <td>4</td>
